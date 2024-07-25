@@ -6,6 +6,6 @@ seaborn==0.10.0
 imbalanced-learn==0.6.2
 scikit-learn==1.5.0
 catboost==0.22
-torch==1.4.0
+torch==2.2.0
 xgboost==1.0.2
 lightgbm==2.3.1
